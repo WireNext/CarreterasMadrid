@@ -4,12 +4,26 @@ import json
 
 url = "https://datos.madrid.es/egob/catalogo/202087-0-trafico-intensidad.xml"
 response = requests.get(url)
-response.encoding = 'utf-8'  # Asegurarse de la codificación correcta
+response.encoding = 'utf-8'  # Asegurarse de que la respuesta esté bien codificada
 
-# Verificación del contenido
-print(response.content[:1000])  # Muestra los primeros 1000 caracteres del XML para ver si hay datos
+# Verificación del contenido del XML (primero 1000 caracteres)
+print("Contenido del XML (primeros 1000 caracteres):")
+print(response.content[:1000])
 
 root = ET.fromstring(response.content)
+
+# Depuración: Imprimir los elementos principales del XML
+print("\nEtiquetas disponibles en el XML:")
+for pm in root.findall(".//pm"):
+    idelem = pm.findtext('idelem')
+    descripcion = pm.findtext('descripcion')
+    intensidad = pm.findtext('intensidad')
+    nivelServicio = pm.findtext('nivelServicio')
+    st_x = pm.findtext('st_x')
+    st_y = pm.findtext('st_y')
+    
+    # Imprimir cada etiqueta para verificar que estamos extrayendo correctamente
+    print(f"idelem: {idelem}, descripcion: {descripcion}, intensidad: {intensidad}, nivelServicio: {nivelServicio}, st_x: {st_x}, st_y: {st_y}")
 
 geojson = {
     "type": "FeatureCollection",
@@ -25,16 +39,16 @@ for pm in root.findall(".//pm"):
     st_x = pm.findtext('st_x')
     st_y = pm.findtext('st_y')
 
-    # Si faltan coordenadas, se omite
+    # Verificamos si faltan las coordenadas
     if not st_x or not st_y:
+        print(f"Faltan coordenadas para idelem: {idelem}")
         continue
 
     # Tratamos de convertir las coordenadas (st_x y st_y) en float
     try:
-        # Intentamos hacer el split por coma y convertir las coordenadas en float
         lon, lat = map(float, st_x.split(','))
     except ValueError:
-        # Si no es posible, lo omitimos
+        print(f"Error al convertir coordenadas para idelem: {idelem}")
         continue
 
     # Asignación de color según nivel de servicio
