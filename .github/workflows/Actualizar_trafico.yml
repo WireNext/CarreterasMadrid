@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add trafico_madrid_umap.geojson
+          git add madrid_trafico.geojson
           git commit -m "Actualizar tráfico Madrid" || echo "Sin cambios"
           git push
