@@ -21,7 +21,7 @@ root = ET.fromstring(response.content)
 features = []
 
 for punto in root.findall('.//pm'):
-    id = punto.find('id').text
+    id = punto.find('idpm').text
     intensidad = punto.find('intensidad').text or '0'
     nombre = punto.find('nombre').text or 'Sin nombre'
     lat = float(punto.find('lat').text)
