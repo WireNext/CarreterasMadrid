@@ -2,44 +2,43 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 
-URL = 'https://datos.madrid.es/egob/catalogo/202087-0-trafico-intensidad.xml'
+url = "https://datos.madrid.es/egob/catalogo/202087-0-trafico-intensidad.xml"
+response = requests.get(url)
+response.encoding = 'utf-8'
 
-def get_color(intensidad):
-    intensidad = int(intensidad)
-    if intensidad < 500:
-        return '#00FF00'
-    elif intensidad < 1000:
-        return '#FFA500'
-    else:
-        return '#000000'
-
-response = requests.get(URL)
-response.raise_for_status()
-
-root = ET.fromstring(response.content)
+root = ET.fromstring(response.text)
 
 features = []
 
 for punto in root.findall('.//pm'):
-    id = punto.find('idpm').text
-    intensidad = punto.find('intensidad').text or '0'
-    nombre = punto.find('nombre').text or 'Sin nombre'
-    lat = float(punto.find('lat').text)
-    lon = float(punto.find('long').text)
+    idpm = punto.find('idpm')
+    lat = punto.find('lat')
+    lon = punto.find('lon')
+    intensidad = punto.find('intensidad')
 
-    color = get_color(intensidad)
+    if idpm is None or lat is None or lon is None or intensidad is None:
+        continue  # saltar si falta algo
+
+    intensidad_valor = int(intensidad.text)
+
+    # colores según intensidad
+    if intensidad_valor < 500:
+        color = "#00FF00"  # verde
+    elif intensidad_valor < 1500:
+        color = "#FFA500"  # naranja
+    else:
+        color = "#FF0000"  # rojo
 
     feature = {
         "type": "Feature",
         "properties": {
-            "id": id,
-            "nombre": nombre,
-            "intensidad": intensidad,
-            "marker-color": color
+            "id": idpm.text,
+            "intensidad": intensidad_valor,
+            "color": color
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [lon, lat]
+            "coordinates": [float(lon.text), float(lat.text)]
         }
     }
     features.append(feature)
@@ -49,7 +48,5 @@ geojson = {
     "features": features
 }
 
-with open('trafico_madrid_umap.geojson', 'w', encoding='utf-8') as f:
+with open('madrid_trafico.geojson', 'w', encoding='utf-8') as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
-
-print("GeoJSON generado correctamente")
