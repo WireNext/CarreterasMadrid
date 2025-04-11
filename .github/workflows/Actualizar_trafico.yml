@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Ejecutar script
-        run: python generar_geojson_madrid.py
+        run: python generar_datos.py
 
       - name: Commit y push si hay cambios
         run: |
