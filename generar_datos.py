@@ -4,49 +4,60 @@ import json
 
 url = "https://datos.madrid.es/egob/catalogo/202087-0-trafico-intensidad.xml"
 response = requests.get(url)
-response.encoding = 'utf-8'
+root = ET.fromstring(response.content)
 
-root = ET.fromstring(response.text)
+geojson = {
+    "type": "FeatureCollection",
+    "features": []
+}
 
-features = []
+# Recorremos todos los puntos de tráfico (PM)
+for pm in root.findall(".//pm"):
+    idelem = pm.findtext('idelem')
+    descripcion = pm.findtext('descripcion')
+    intensidad = pm.findtext('intensidad')
+    nivelServicio = pm.findtext('nivelServicio')
+    st_x = pm.findtext('st_x')
+    st_y = pm.findtext('st_y')
 
-for punto in root.findall('.//pm'):
-    idpm = punto.find('idpm')
-    lat = punto.find('lat')
-    lon = punto.find('lon')
-    intensidad = punto.find('intensidad')
+    # Comprobamos si los campos necesarios están presentes
+    if not st_x or not st_y:
+        continue
 
-    if idpm is None or lat is None or lon is None or intensidad is None:
-        continue  # saltar si falta algo
+    # Convertimos coordenadas
+    try:
+        lon, lat = map(float, st_x.split(','))
+    except ValueError:
+        continue
 
-    intensidad_valor = int(intensidad.text)
-
-    # colores según intensidad
-    if intensidad_valor < 500:
-        color = "#00FF00"  # verde
-    elif intensidad_valor < 1500:
-        color = "#FFA500"  # naranja
-    else:
-        color = "#FF0000"  # rojo
+    # Definimos el color según el nivel de servicio
+    color = {
+        "0": "#00FF00",  # verde
+        "1": "#FFA500",  # naranja
+        "2": "#FF0000",  # rojo
+        "3": "#000000"   # negro
+    }.get(nivelServicio, "#808080")  # gris por defecto si no está en el rango
 
     feature = {
         "type": "Feature",
         "properties": {
-            "id": idpm.text,
-            "intensidad": intensidad_valor,
-            "color": color
+            "id": idelem,
+            "descripcion": descripcion,
+            "intensidad": intensidad,
+            "nivelServicio": nivelServicio,
+            "_umap_options": {
+                "color": color
+            }
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [float(lon.text), float(lat.text)]
+            "coordinates": [lon, lat]
         }
     }
-    features.append(feature)
+    geojson["features"].append(feature)
 
-geojson = {
-    "type": "FeatureCollection",
-    "features": features
-}
-
-with open('madrid_trafico.geojson', 'w', encoding='utf-8') as f:
+# Guardamos el archivo GeoJSON generado
+with open('trafico_madrid_umap.geojson', 'w', encoding='utf-8') as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
+
+print("GeoJSON generado correctamente.")
