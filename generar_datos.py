@@ -3,19 +3,21 @@ import xml.etree.ElementTree as ET
 import json
 from pyproj import Transformer
 
+# Descargar el XML
 URL = "https://datos.madrid.es/egob/catalogo/202087-0-trafico-intensidad.xml"
-
 response = requests.get(URL)
 response.encoding = 'utf-8-sig'
 root = ET.fromstring(response.text)
 
+# Transformador de coordenadas
 transformer = Transformer.from_crs("EPSG:25830", "EPSG:4326", always_xy=True)
 
+# Colores según nivel de servicio
 colores = {
     "0": "#00FF00",  # Verde
-    "1": "#FFA500",  # Naranja
+    "1": "#FFFF00",  # Amarillo
     "2": "#FF0000",  # Rojo
-    "3": "#000000"   # Cortado / Negro
+    "3": "#000000"   # Negro / Cortado
 }
 
 geojson = {
@@ -23,14 +25,13 @@ geojson = {
     "features": []
 }
 
-# Tamaño del segmento
-offset_x = 0.0003
-offset_y = 0.0001
+# Ajustes de desplazamiento para dibujar líneas
+offset = 0.001  # Grados aprox (ajustable)
 
 for punto in root.findall("pm"):
     id = punto.findtext("idelem")
-    descripcion = punto.findtext("descripcion")
-    intensidad = punto.findtext("intensidad")
+    descripcion = punto.findtext("descripcion", "Sin descripción")
+    intensidad = punto.findtext("intensidad", "0")
     nivel = punto.findtext("nivelServicio", "0")
     x_str = punto.findtext("st_x", "0").replace(",", ".")
     y_str = punto.findtext("st_y", "0").replace(",", ".")
@@ -42,18 +43,18 @@ for punto in root.findall("pm"):
     except ValueError:
         continue
 
-    # Determinar el sentido desde la descripción
+    # Determinar dirección
     if "E-O" in descripcion:
-        coords = [[lon + offset_x, lat], [lon - offset_x, lat]]
+        coords = [[lon + offset, lat], [lon - offset, lat]]
     elif "O-E" in descripcion:
-        coords = [[lon - offset_x, lat], [lon + offset_x, lat]]
+        coords = [[lon - offset, lat], [lon + offset, lat]]
     elif "N-S" in descripcion:
-        coords = [[lon, lat + offset_y], [lon, lat - offset_y]]
+        coords = [[lon, lat + offset], [lon, lat - offset]]
     elif "S-N" in descripcion:
-        coords = [[lon, lat - offset_y], [lon, lat + offset_y]]
+        coords = [[lon, lat - offset], [lon, lat + offset]]
     else:
-        # Si no se puede detectar el sentido, hacer una pequeña línea diagonal
-        coords = [[lon - offset_x, lat - offset_y], [lon + offset_x, lat + offset_y]]
+        # Dirección desconocida: línea diagonal para que se vea
+        coords = [[lon - offset, lat - offset], [lon + offset, lat + offset]]
 
     feature = {
         "type": "Feature",
@@ -64,7 +65,7 @@ for punto in root.findall("pm"):
             "nivelServicio": nivel,
             "_umap_options": {
                 "color": colores.get(nivel, "#888888"),
-                "weight": 5  # grosor de línea
+                "weight": 5
             }
         },
         "geometry": {
@@ -75,8 +76,8 @@ for punto in root.findall("pm"):
 
     geojson["features"].append(feature)
 
-# Guardar el archivo
+# Guardar a archivo
 with open('madrid_trafico.geojson', 'w') as f:
     json.dump(geojson, f, indent=2)
 
-print("GeoJSON generado correctamente.")
+print("GeoJSON generado correctamente con líneas.")
