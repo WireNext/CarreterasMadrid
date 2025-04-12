@@ -44,5 +44,8 @@ jobs:
         git add madrid_trafico.geojson
         git commit -m "Actualiza GeoJSON con nuevos datos de tráfico" || echo "Nada que commitear"
 
+    - name: Hacer pull para evitar conflictos
+      run: git pull --rebase origin main
+
     - name: Hacer push
       run: git push
