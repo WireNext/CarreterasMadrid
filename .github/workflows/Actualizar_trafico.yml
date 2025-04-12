@@ -41,7 +41,7 @@ jobs:
 
     - name: Añadir y hacer commit del archivo
       run: |
-        git add trafico_madrid_umap.geojson
+        git add madrid_trafico.geojson
         git commit -m "Actualiza GeoJSON con nuevos datos de tráfico" || echo "Nada que commitear"
 
     - name: Hacer push
