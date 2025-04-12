@@ -66,7 +66,7 @@ for i, pm in enumerate(root.findall(".//pm")):
     geojson["features"].append(feature)
 
 # Guardamos el archivo GeoJSON generado
-with open('trafico_madrid_umap.geojson', 'w', encoding='utf-8') as f:
+with open('madrid_trafico.geojson', 'w', encoding='utf-8') as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
 
 print("GeoJSON generado correctamente.")
