@@ -57,5 +57,8 @@ for punto in root.findall("pm"):
 
     geojson["features"].append(feature)
 
-with open("madrid_trafico.geojson", "w", encoding="utf-8") as f:
-    json.dump(geojson, f, ensure_ascii=False, indent=2)
+print(json.dumps(geojson, indent=2))  # Muestra el contenido del GeoJSON
+
+# Guardar el archivo
+with open('madrid_trafico.geojson', 'w') as f:
+    json.dump(geojson, f, indent=2)
