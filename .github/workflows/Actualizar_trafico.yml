@@ -24,8 +24,9 @@ jobs:
     - name: Instalar dependencias
       run: |
         pip install --upgrade pip
+        pip install requests  # Añadimos requests
         pip install pyproj  # Instala pyproj
-        pip freeze  # Muestra las dependencias instaladas, para ver si pyproj está instalado
+        pip freeze  # Muestra las dependencias instaladas, para ver si requests está instalado
 
     - name: Instalar otras dependencias (si tienes un requirements.txt)
       run: pip install -r requirements.txt  # Si tienes otras dependencias
