@@ -1,32 +1,33 @@
-name: Generar GeoJSON de Tráfico Madrid
+name: Actualizar tráfico Madrid
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Esto ejecutará el workflow cada 5 minutos (ajústalo según sea necesario)
-  push:
-    branches:
-      - main  # O la rama que prefieras
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
-  generar_geojson:
+  actualizar:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Check out el código
-      uses: actions/checkout@v2
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
 
-    - name: Configurar Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'  # Puedes usar la versión que prefieras
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Instalar dependencias
-      run: |
-        pip install --upgrade pip
-        pip install pyproj  # Instala pyproj, necesario para la conversión de coordenadas
+      - name: Instalar dependencias
+        run: pip install requests
 
-    - name: Instalar otras dependencias (si tienes un requirements.txt)
-      run: pip install -r requirements.txt  # Si tienes otras dependencias
+      - name: Ejecutar script
+        run: python generar_datos.py
 
-    - name: Ejecutar el script de generación de GeoJSON
-      run: python generar_datos.py  # Aquí se ejecuta tu script Python
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add madrid_trafico.geojson
+          git commit -m "Actualizar tráfico Madrid" || echo "Sin cambios"
+          git push
