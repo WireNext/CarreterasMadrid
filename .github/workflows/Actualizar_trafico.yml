@@ -33,3 +33,16 @@ jobs:
 
     - name: Ejecutar el script de generación de GeoJSON
       run: python generar_datos.py  # Aquí se ejecuta tu script Python
+
+    - name: Configurar Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Añadir y hacer commit del archivo
+      run: |
+        git add trafico_madrid_umap.geojson
+        git commit -m "Actualiza GeoJSON con nuevos datos de tráfico" || echo "Nada que commitear"
+
+    - name: Hacer push
+      run: git push
