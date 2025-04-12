@@ -12,16 +12,20 @@ root = ET.fromstring(response.text)
 transformer = Transformer.from_crs("EPSG:25830", "EPSG:4326", always_xy=True)
 
 colores = {
-    "0": "#00FF00",
-    "1": "#FFA500",
-    "2": "#FF0000",
-    "3": "#000000"
+    "0": "#00FF00",  # Verde
+    "1": "#FFA500",  # Naranja
+    "2": "#FF0000",  # Rojo
+    "3": "#000000"   # Cortado / Negro
 }
 
 geojson = {
     "type": "FeatureCollection",
     "features": []
 }
+
+# Tamaño del segmento
+offset_x = 0.0003
+offset_y = 0.0001
 
 for punto in root.findall("pm"):
     id = punto.findtext("idelem")
@@ -38,6 +42,19 @@ for punto in root.findall("pm"):
     except ValueError:
         continue
 
+    # Determinar el sentido desde la descripción
+    if "E-O" in descripcion:
+        coords = [[lon + offset_x, lat], [lon - offset_x, lat]]
+    elif "O-E" in descripcion:
+        coords = [[lon - offset_x, lat], [lon + offset_x, lat]]
+    elif "N-S" in descripcion:
+        coords = [[lon, lat + offset_y], [lon, lat - offset_y]]
+    elif "S-N" in descripcion:
+        coords = [[lon, lat - offset_y], [lon, lat + offset_y]]
+    else:
+        # Si no se puede detectar el sentido, hacer una pequeña línea diagonal
+        coords = [[lon - offset_x, lat - offset_y], [lon + offset_x, lat + offset_y]]
+
     feature = {
         "type": "Feature",
         "properties": {
@@ -46,20 +63,20 @@ for punto in root.findall("pm"):
             "intensidad": intensidad,
             "nivelServicio": nivel,
             "_umap_options": {
-                "color": colores.get(nivel, "#888888")
+                "color": colores.get(nivel, "#888888"),
+                "weight": 5  # grosor de línea
             }
         },
         "geometry": {
-            "type": "Point",
-            "coordinates": [lon, lat]
+            "type": "LineString",
+            "coordinates": coords
         }
     }
 
     geojson["features"].append(feature)
 
-# Verificar que el GeoJSON tiene datos
-print(json.dumps(geojson, indent=2))  # Muestra el contenido del GeoJSON
-
 # Guardar el archivo
 with open('madrid_trafico.geojson', 'w') as f:
     json.dump(geojson, f, indent=2)
+
+print("GeoJSON generado correctamente.")
