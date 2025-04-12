@@ -31,3 +31,6 @@ jobs:
           git add madrid_trafico.geojson
           git commit -m "Actualizar tráfico Madrid" || echo "Sin cambios"
           git push
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
