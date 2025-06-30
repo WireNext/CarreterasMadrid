@@ -5,11 +5,11 @@
       "type": "Feature",
       "properties": {
         "id": "6639",
-        "descripcion": "PM40001",
-        "intensidad": "4200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -31,11 +31,11 @@
       "type": "Feature",
       "properties": {
         "id": "3797",
-        "descripcion": "PM40005",
-        "intensidad": "1140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -57,11 +57,11 @@
       "type": "Feature",
       "properties": {
         "id": "6640",
-        "descripcion": "PM10013",
-        "intensidad": "2280",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -83,11 +83,11 @@
       "type": "Feature",
       "properties": {
         "id": "6641",
-        "descripcion": "PM10021",
-        "intensidad": "5040",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -109,11 +109,11 @@
       "type": "Feature",
       "properties": {
         "id": "6642",
-        "descripcion": "PM10091",
-        "intensidad": "4140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -135,11 +135,11 @@
       "type": "Feature",
       "properties": {
         "id": "6643",
-        "descripcion": "PM10092",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -161,11 +161,11 @@
       "type": "Feature",
       "properties": {
         "id": "6644",
-        "descripcion": "PM10141",
-        "intensidad": "4200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -187,11 +187,11 @@
       "type": "Feature",
       "properties": {
         "id": "6645",
-        "descripcion": "PM10142",
-        "intensidad": "2640",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -213,11 +213,11 @@
       "type": "Feature",
       "properties": {
         "id": "6646",
-        "descripcion": "PM10211",
-        "intensidad": "3600",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -239,11 +239,11 @@
       "type": "Feature",
       "properties": {
         "id": "6647",
-        "descripcion": "PM10212",
-        "intensidad": "3840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -265,11 +265,11 @@
       "type": "Feature",
       "properties": {
         "id": "6648",
-        "descripcion": "PM10241",
-        "intensidad": "3240",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -291,11 +291,11 @@
       "type": "Feature",
       "properties": {
         "id": "6649",
-        "descripcion": "PM10242",
-        "intensidad": "4140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -317,11 +317,11 @@
       "type": "Feature",
       "properties": {
         "id": "6650",
-        "descripcion": "PM10341",
-        "intensidad": "3660",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -343,11 +343,11 @@
       "type": "Feature",
       "properties": {
         "id": "6651",
-        "descripcion": "PM10342",
-        "intensidad": "3600",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -369,11 +369,11 @@
       "type": "Feature",
       "properties": {
         "id": "6652",
-        "descripcion": "PM10343",
-        "intensidad": "540",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -395,11 +395,11 @@
       "type": "Feature",
       "properties": {
         "id": "6653",
-        "descripcion": "PM10344",
-        "intensidad": "120",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -421,11 +421,11 @@
       "type": "Feature",
       "properties": {
         "id": "6654",
-        "descripcion": "PM10401",
-        "intensidad": "2460",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -447,11 +447,11 @@
       "type": "Feature",
       "properties": {
         "id": "6655",
-        "descripcion": "PM10402",
-        "intensidad": "60",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -603,11 +603,11 @@
       "type": "Feature",
       "properties": {
         "id": "10175",
-        "descripcion": "PM10471",
-        "intensidad": "3900",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -629,11 +629,11 @@
       "type": "Feature",
       "properties": {
         "id": "10265",
-        "descripcion": "PM10472",
-        "intensidad": "1680",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -681,11 +681,11 @@
       "type": "Feature",
       "properties": {
         "id": "3818",
-        "descripcion": "PM10501",
-        "intensidad": "5040",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -707,11 +707,11 @@
       "type": "Feature",
       "properties": {
         "id": "3819",
-        "descripcion": "PM10502",
-        "intensidad": "6240",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -733,11 +733,11 @@
       "type": "Feature",
       "properties": {
         "id": "3820",
-        "descripcion": "PM10561",
-        "intensidad": "3360",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -759,11 +759,11 @@
       "type": "Feature",
       "properties": {
         "id": "6663",
-        "descripcion": "PM10572",
-        "intensidad": "3780",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -785,11 +785,11 @@
       "type": "Feature",
       "properties": {
         "id": "3799",
-        "descripcion": "PM10611",
-        "intensidad": "6300",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -811,11 +811,11 @@
       "type": "Feature",
       "properties": {
         "id": "3800",
-        "descripcion": "PM10612",
-        "intensidad": "3420",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -837,11 +837,11 @@
       "type": "Feature",
       "properties": {
         "id": "6664",
-        "descripcion": "PM10661",
-        "intensidad": "5580",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -863,11 +863,11 @@
       "type": "Feature",
       "properties": {
         "id": "6665",
-        "descripcion": "PM10662",
-        "intensidad": "4740",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -889,11 +889,11 @@
       "type": "Feature",
       "properties": {
         "id": "6666",
-        "descripcion": "PM10711",
-        "intensidad": "6960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -915,11 +915,11 @@
       "type": "Feature",
       "properties": {
         "id": "3488",
-        "descripcion": "PM10712",
-        "intensidad": "4860",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -941,11 +941,11 @@
       "type": "Feature",
       "properties": {
         "id": "3489",
-        "descripcion": "PM10728",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -967,11 +967,11 @@
       "type": "Feature",
       "properties": {
         "id": "6667",
-        "descripcion": "PM30754",
-        "intensidad": "2820",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -993,11 +993,11 @@
       "type": "Feature",
       "properties": {
         "id": "6668",
-        "descripcion": "PM10768",
-        "intensidad": "1320",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1019,11 +1019,11 @@
       "type": "Feature",
       "properties": {
         "id": "6669",
-        "descripcion": "PM10766",
-        "intensidad": "600",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1045,11 +1045,11 @@
       "type": "Feature",
       "properties": {
         "id": "3611",
-        "descripcion": "PM10765",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1071,8 +1071,8 @@
       "type": "Feature",
       "properties": {
         "id": "3815",
-        "descripcion": "PM10831",
-        "intensidad": "5820",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -1097,8 +1097,8 @@
       "type": "Feature",
       "properties": {
         "id": "3490",
-        "descripcion": "PM10832",
-        "intensidad": "6480",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -1123,8 +1123,8 @@
       "type": "Feature",
       "properties": {
         "id": "3491",
-        "descripcion": "PM10861",
-        "intensidad": "6660",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -1149,8 +1149,8 @@
       "type": "Feature",
       "properties": {
         "id": "3492",
-        "descripcion": "PM10862",
-        "intensidad": "3060",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -1175,8 +1175,8 @@
       "type": "Feature",
       "properties": {
         "id": "3493",
-        "descripcion": "PM10865",
-        "intensidad": "3300",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -1201,11 +1201,11 @@
       "type": "Feature",
       "properties": {
         "id": "3816",
-        "descripcion": "PM10901",
-        "intensidad": "2040",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1227,11 +1227,11 @@
       "type": "Feature",
       "properties": {
         "id": "6670",
-        "descripcion": "PM10902",
-        "intensidad": "2220",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1253,11 +1253,11 @@
       "type": "Feature",
       "properties": {
         "id": "6671",
-        "descripcion": "PM10907",
-        "intensidad": "1080",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1279,11 +1279,11 @@
       "type": "Feature",
       "properties": {
         "id": "6672",
-        "descripcion": "PM10941",
-        "intensidad": "1320",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1305,11 +1305,11 @@
       "type": "Feature",
       "properties": {
         "id": "6673",
-        "descripcion": "PM10942",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1331,11 +1331,11 @@
       "type": "Feature",
       "properties": {
         "id": "6674",
-        "descripcion": "PM10945",
-        "intensidad": "720",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1357,11 +1357,11 @@
       "type": "Feature",
       "properties": {
         "id": "7124",
-        "descripcion": "PM10948",
-        "intensidad": "480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1383,11 +1383,11 @@
       "type": "Feature",
       "properties": {
         "id": "6676",
-        "descripcion": "PM10981",
-        "intensidad": "4080",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1409,11 +1409,11 @@
       "type": "Feature",
       "properties": {
         "id": "6677",
-        "descripcion": "PM10982",
-        "intensidad": "1740",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1435,11 +1435,11 @@
       "type": "Feature",
       "properties": {
         "id": "6678",
-        "descripcion": "PM10985",
-        "intensidad": "720",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1461,11 +1461,11 @@
       "type": "Feature",
       "properties": {
         "id": "6679",
-        "descripcion": "PM11071",
-        "intensidad": "3600",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1487,11 +1487,11 @@
       "type": "Feature",
       "properties": {
         "id": "6820",
-        "descripcion": "PM11074",
-        "intensidad": "960",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1513,11 +1513,11 @@
       "type": "Feature",
       "properties": {
         "id": "6680",
-        "descripcion": "PM11101",
-        "intensidad": "3000",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1539,11 +1539,11 @@
       "type": "Feature",
       "properties": {
         "id": "6681",
-        "descripcion": "PM11102",
-        "intensidad": "960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1565,11 +1565,11 @@
       "type": "Feature",
       "properties": {
         "id": "6682",
-        "descripcion": "PM11108",
-        "intensidad": "2460",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1591,11 +1591,11 @@
       "type": "Feature",
       "properties": {
         "id": "6683",
-        "descripcion": "PM11161",
-        "intensidad": "3720",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1617,11 +1617,11 @@
       "type": "Feature",
       "properties": {
         "id": "6684",
-        "descripcion": "PM11168",
-        "intensidad": "2220",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1643,11 +1643,11 @@
       "type": "Feature",
       "properties": {
         "id": "6685",
-        "descripcion": "PM11201",
-        "intensidad": "4080",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1669,11 +1669,11 @@
       "type": "Feature",
       "properties": {
         "id": "6686",
-        "descripcion": "PM11208",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1695,11 +1695,11 @@
       "type": "Feature",
       "properties": {
         "id": "6687",
-        "descripcion": "PM11301",
-        "intensidad": "2280",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1721,11 +1721,11 @@
       "type": "Feature",
       "properties": {
         "id": "6688",
-        "descripcion": "PM11303",
-        "intensidad": "2940",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1747,11 +1747,11 @@
       "type": "Feature",
       "properties": {
         "id": "6689",
-        "descripcion": "PM11981",
-        "intensidad": "5100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1773,11 +1773,11 @@
       "type": "Feature",
       "properties": {
         "id": "6690",
-        "descripcion": "PM12061",
-        "intensidad": "4440",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1799,11 +1799,11 @@
       "type": "Feature",
       "properties": {
         "id": "6691",
-        "descripcion": "PM12121",
-        "intensidad": "2880",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1825,11 +1825,11 @@
       "type": "Feature",
       "properties": {
         "id": "7125",
-        "descripcion": "PM12122",
-        "intensidad": "240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1851,11 +1851,11 @@
       "type": "Feature",
       "properties": {
         "id": "6692",
-        "descripcion": "PM12211",
-        "intensidad": "3300",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1877,11 +1877,11 @@
       "type": "Feature",
       "properties": {
         "id": "6693",
-        "descripcion": "PM12241",
-        "intensidad": "3900",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1903,11 +1903,11 @@
       "type": "Feature",
       "properties": {
         "id": "6694",
-        "descripcion": "PM12331",
-        "intensidad": "2400",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1929,11 +1929,11 @@
       "type": "Feature",
       "properties": {
         "id": "6813",
-        "descripcion": "PM12342",
-        "intensidad": "2100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1955,11 +1955,11 @@
       "type": "Feature",
       "properties": {
         "id": "6695",
-        "descripcion": "PM12391",
-        "intensidad": "3720",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -1981,11 +1981,11 @@
       "type": "Feature",
       "properties": {
         "id": "6696",
-        "descripcion": "PM12471",
-        "intensidad": "3780",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2007,11 +2007,11 @@
       "type": "Feature",
       "properties": {
         "id": "10180",
-        "descripcion": "PM12502",
-        "intensidad": "4500",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2033,11 +2033,11 @@
       "type": "Feature",
       "properties": {
         "id": "6698",
-        "descripcion": "PM12571",
-        "intensidad": "1500",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2059,11 +2059,11 @@
       "type": "Feature",
       "properties": {
         "id": "6815",
-        "descripcion": "PM12572",
-        "intensidad": "1560",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2085,11 +2085,11 @@
       "type": "Feature",
       "properties": {
         "id": "6817",
-        "descripcion": "PM12622",
-        "intensidad": "300",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2111,11 +2111,11 @@
       "type": "Feature",
       "properties": {
         "id": "6699",
-        "descripcion": "PM12641",
-        "intensidad": "2160",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2137,11 +2137,11 @@
       "type": "Feature",
       "properties": {
         "id": "6700",
-        "descripcion": "PM12721",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2163,11 +2163,11 @@
       "type": "Feature",
       "properties": {
         "id": "3801",
-        "descripcion": "PM12781",
-        "intensidad": "2640",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2189,11 +2189,11 @@
       "type": "Feature",
       "properties": {
         "id": "6914",
-        "descripcion": "PM12851",
-        "intensidad": "2400",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2215,7 +2215,7 @@
       "type": "Feature",
       "properties": {
         "id": "6702",
-        "descripcion": "PM12921",
+        "descripcion": "",
         "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
@@ -2241,8 +2241,8 @@
       "type": "Feature",
       "properties": {
         "id": "3510",
-        "descripcion": "PM12961",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -2267,8 +2267,8 @@
       "type": "Feature",
       "properties": {
         "id": "6703",
-        "descripcion": "PM12981",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -2293,11 +2293,11 @@
       "type": "Feature",
       "properties": {
         "id": "6704",
-        "descripcion": "PM13011",
-        "intensidad": "2880",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2319,11 +2319,11 @@
       "type": "Feature",
       "properties": {
         "id": "6705",
-        "descripcion": "PM13014",
-        "intensidad": "960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2345,11 +2345,11 @@
       "type": "Feature",
       "properties": {
         "id": "6706",
-        "descripcion": "PM13041",
-        "intensidad": "840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2371,11 +2371,11 @@
       "type": "Feature",
       "properties": {
         "id": "7130",
-        "descripcion": "PM13212",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2397,7 +2397,7 @@
       "type": "Feature",
       "properties": {
         "id": "7013",
-        "descripcion": "PM13221",
+        "descripcion": "",
         "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
@@ -2423,11 +2423,11 @@
       "type": "Feature",
       "properties": {
         "id": "7014",
-        "descripcion": "PM13222",
-        "intensidad": "1080",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2449,11 +2449,11 @@
       "type": "Feature",
       "properties": {
         "id": "3521",
-        "descripcion": "PM30001",
-        "intensidad": "3120",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2475,11 +2475,11 @@
       "type": "Feature",
       "properties": {
         "id": "6712",
-        "descripcion": "PM30002",
-        "intensidad": "420",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2501,11 +2501,11 @@
       "type": "Feature",
       "properties": {
         "id": "6713",
-        "descripcion": "PM20021",
-        "intensidad": "3840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2527,11 +2527,11 @@
       "type": "Feature",
       "properties": {
         "id": "3821",
-        "descripcion": "PM20025",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2553,11 +2553,11 @@
       "type": "Feature",
       "properties": {
         "id": "3822",
-        "descripcion": "PM20026",
-        "intensidad": "2220",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2579,11 +2579,11 @@
       "type": "Feature",
       "properties": {
         "id": "3823",
-        "descripcion": "PM20041",
-        "intensidad": "4740",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2605,11 +2605,11 @@
       "type": "Feature",
       "properties": {
         "id": "6714",
-        "descripcion": "PM20042",
-        "intensidad": "1440",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2631,11 +2631,11 @@
       "type": "Feature",
       "properties": {
         "id": "6715",
-        "descripcion": "PM20151",
-        "intensidad": "4560",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2657,11 +2657,11 @@
       "type": "Feature",
       "properties": {
         "id": "6716",
-        "descripcion": "PM20152",
-        "intensidad": "540",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2683,11 +2683,11 @@
       "type": "Feature",
       "properties": {
         "id": "6717",
-        "descripcion": "PM20231",
-        "intensidad": "3780",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2709,11 +2709,11 @@
       "type": "Feature",
       "properties": {
         "id": "6718",
-        "descripcion": "PM20232",
-        "intensidad": "2400",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2735,11 +2735,11 @@
       "type": "Feature",
       "properties": {
         "id": "6719",
-        "descripcion": "PM20233",
-        "intensidad": "1920",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2761,11 +2761,11 @@
       "type": "Feature",
       "properties": {
         "id": "6720",
-        "descripcion": "PM20261",
-        "intensidad": "3540",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2787,11 +2787,11 @@
       "type": "Feature",
       "properties": {
         "id": "6721",
-        "descripcion": "PM20262",
-        "intensidad": "5160",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2813,8 +2813,8 @@
       "type": "Feature",
       "properties": {
         "id": "6722",
-        "descripcion": "PM20321",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -2839,8 +2839,8 @@
       "type": "Feature",
       "properties": {
         "id": "6723",
-        "descripcion": "PM20322",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -2865,8 +2865,8 @@
       "type": "Feature",
       "properties": {
         "id": "6724",
-        "descripcion": "PM20327",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -2891,11 +2891,11 @@
       "type": "Feature",
       "properties": {
         "id": "6725",
-        "descripcion": "PM20411",
-        "intensidad": "5940",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2917,11 +2917,11 @@
       "type": "Feature",
       "properties": {
         "id": "6726",
-        "descripcion": "PM20412",
-        "intensidad": "3960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2943,11 +2943,11 @@
       "type": "Feature",
       "properties": {
         "id": "6727",
-        "descripcion": "PM20441",
-        "intensidad": "5580",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2969,11 +2969,11 @@
       "type": "Feature",
       "properties": {
         "id": "6728",
-        "descripcion": "PM20442",
-        "intensidad": "2400",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -2995,11 +2995,11 @@
       "type": "Feature",
       "properties": {
         "id": "6729",
-        "descripcion": "PM20471",
-        "intensidad": "3780",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3021,11 +3021,11 @@
       "type": "Feature",
       "properties": {
         "id": "6730",
-        "descripcion": "PM20472",
-        "intensidad": "960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3047,11 +3047,11 @@
       "type": "Feature",
       "properties": {
         "id": "6731",
-        "descripcion": "PM20473",
-        "intensidad": "1020",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3073,11 +3073,11 @@
       "type": "Feature",
       "properties": {
         "id": "6732",
-        "descripcion": "PM20571",
-        "intensidad": "1980",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3099,11 +3099,11 @@
       "type": "Feature",
       "properties": {
         "id": "6733",
-        "descripcion": "PM20572",
-        "intensidad": "4800",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3125,11 +3125,11 @@
       "type": "Feature",
       "properties": {
         "id": "6734",
-        "descripcion": "PM20661",
-        "intensidad": "3480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3151,7 +3151,7 @@
       "type": "Feature",
       "properties": {
         "id": "6735",
-        "descripcion": "PM20662",
+        "descripcion": "",
         "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
@@ -3177,7 +3177,7 @@
       "type": "Feature",
       "properties": {
         "id": "6736",
-        "descripcion": "PM20664",
+        "descripcion": "",
         "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
@@ -3203,11 +3203,11 @@
       "type": "Feature",
       "properties": {
         "id": "6737",
-        "descripcion": "PM20721",
-        "intensidad": "3600",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3229,11 +3229,11 @@
       "type": "Feature",
       "properties": {
         "id": "6738",
-        "descripcion": "PM20722",
-        "intensidad": "1620",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3255,11 +3255,11 @@
       "type": "Feature",
       "properties": {
         "id": "6739",
-        "descripcion": "PM20742",
-        "intensidad": "540",
-        "nivelServicio": "3",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#000000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3281,11 +3281,11 @@
       "type": "Feature",
       "properties": {
         "id": "6740",
-        "descripcion": "PM20756",
-        "intensidad": "240",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3307,11 +3307,11 @@
       "type": "Feature",
       "properties": {
         "id": "6742",
-        "descripcion": "PM20776",
+        "descripcion": "",
         "intensidad": "0",
-        "nivelServicio": "2",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3333,8 +3333,8 @@
       "type": "Feature",
       "properties": {
         "id": "6743",
-        "descripcion": "PM20831",
-        "intensidad": "3840",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -3359,8 +3359,8 @@
       "type": "Feature",
       "properties": {
         "id": "6744",
-        "descripcion": "PM20832",
-        "intensidad": "540",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -3385,8 +3385,8 @@
       "type": "Feature",
       "properties": {
         "id": "6745",
-        "descripcion": "PM20834",
-        "intensidad": "600",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -3411,11 +3411,11 @@
       "type": "Feature",
       "properties": {
         "id": "6746",
-        "descripcion": "PM20851",
-        "intensidad": "3480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3437,11 +3437,11 @@
       "type": "Feature",
       "properties": {
         "id": "6747",
-        "descripcion": "PM20852",
-        "intensidad": "3240",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3463,11 +3463,11 @@
       "type": "Feature",
       "properties": {
         "id": "7126",
-        "descripcion": "PM20854",
-        "intensidad": "540",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3489,11 +3489,11 @@
       "type": "Feature",
       "properties": {
         "id": "10177",
-        "descripcion": "PM20873",
-        "intensidad": "2220",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3515,11 +3515,11 @@
       "type": "Feature",
       "properties": {
         "id": "6749",
-        "descripcion": "PM20911",
-        "intensidad": "1620",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3541,11 +3541,11 @@
       "type": "Feature",
       "properties": {
         "id": "6750",
-        "descripcion": "PM20912",
-        "intensidad": "780",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3567,11 +3567,11 @@
       "type": "Feature",
       "properties": {
         "id": "6751",
-        "descripcion": "PM20913",
-        "intensidad": "960",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3593,11 +3593,11 @@
       "type": "Feature",
       "properties": {
         "id": "6753",
-        "descripcion": "PM20971",
-        "intensidad": "3480",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3619,11 +3619,11 @@
       "type": "Feature",
       "properties": {
         "id": "6754",
-        "descripcion": "PM20972",
-        "intensidad": "1020",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3645,11 +3645,11 @@
       "type": "Feature",
       "properties": {
         "id": "6755",
-        "descripcion": "PM20976",
-        "intensidad": "1740",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3671,8 +3671,8 @@
       "type": "Feature",
       "properties": {
         "id": "6756",
-        "descripcion": "PM21081",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -3697,11 +3697,11 @@
       "type": "Feature",
       "properties": {
         "id": "6757",
-        "descripcion": "PM21148",
-        "intensidad": "120",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3723,11 +3723,11 @@
       "type": "Feature",
       "properties": {
         "id": "6758",
-        "descripcion": "PM21181",
-        "intensidad": "2880",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3749,11 +3749,11 @@
       "type": "Feature",
       "properties": {
         "id": "6759",
-        "descripcion": "PM21185",
-        "intensidad": "720",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3775,11 +3775,11 @@
       "type": "Feature",
       "properties": {
         "id": "6760",
-        "descripcion": "PM21188",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3801,11 +3801,11 @@
       "type": "Feature",
       "properties": {
         "id": "6761",
-        "descripcion": "PM21192",
-        "intensidad": "1860",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3827,11 +3827,11 @@
       "type": "Feature",
       "properties": {
         "id": "6763",
-        "descripcion": "PM21231",
-        "intensidad": "900",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3853,11 +3853,11 @@
       "type": "Feature",
       "properties": {
         "id": "6764",
-        "descripcion": "PM21236",
-        "intensidad": "240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3879,11 +3879,11 @@
       "type": "Feature",
       "properties": {
         "id": "6765",
-        "descripcion": "PM21301",
-        "intensidad": "1980",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3905,11 +3905,11 @@
       "type": "Feature",
       "properties": {
         "id": "3531",
-        "descripcion": "PM21307",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3931,11 +3931,11 @@
       "type": "Feature",
       "properties": {
         "id": "3532",
-        "descripcion": "PM21941",
-        "intensidad": "5760",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3957,11 +3957,11 @@
       "type": "Feature",
       "properties": {
         "id": "3533",
-        "descripcion": "PM22081",
-        "intensidad": "2220",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -3983,11 +3983,11 @@
       "type": "Feature",
       "properties": {
         "id": "6948",
-        "descripcion": "PM22082",
-        "intensidad": "360",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4009,11 +4009,11 @@
       "type": "Feature",
       "properties": {
         "id": "6766",
-        "descripcion": "PM22121",
-        "intensidad": "3540",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4035,11 +4035,11 @@
       "type": "Feature",
       "properties": {
         "id": "6767",
-        "descripcion": "PM22211",
-        "intensidad": "6240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4061,11 +4061,11 @@
       "type": "Feature",
       "properties": {
         "id": "6768",
-        "descripcion": "PM22241",
-        "intensidad": "2700",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4087,11 +4087,11 @@
       "type": "Feature",
       "properties": {
         "id": "3836",
-        "descripcion": "PM22341",
-        "intensidad": "3180",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4113,11 +4113,11 @@
       "type": "Feature",
       "properties": {
         "id": "3558",
-        "descripcion": "PM22391",
-        "intensidad": "3060",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4139,11 +4139,11 @@
       "type": "Feature",
       "properties": {
         "id": "3559",
-        "descripcion": "PM22392",
-        "intensidad": "1440",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4165,11 +4165,11 @@
       "type": "Feature",
       "properties": {
         "id": "6769",
-        "descripcion": "PM22471",
-        "intensidad": "5160",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4191,11 +4191,11 @@
       "type": "Feature",
       "properties": {
         "id": "3597",
-        "descripcion": "PM22571",
-        "intensidad": "3240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4217,11 +4217,11 @@
       "type": "Feature",
       "properties": {
         "id": "6816",
-        "descripcion": "PM22572",
-        "intensidad": "1680",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4243,11 +4243,11 @@
       "type": "Feature",
       "properties": {
         "id": "6770",
-        "descripcion": "PM22641",
-        "intensidad": "2880",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4269,11 +4269,11 @@
       "type": "Feature",
       "properties": {
         "id": "3598",
-        "descripcion": "PM22721",
-        "intensidad": "540",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4295,11 +4295,11 @@
       "type": "Feature",
       "properties": {
         "id": "3599",
-        "descripcion": "PM22781",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4321,11 +4321,11 @@
       "type": "Feature",
       "properties": {
         "id": "3560",
-        "descripcion": "PM22851",
-        "intensidad": "3240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4347,11 +4347,11 @@
       "type": "Feature",
       "properties": {
         "id": "6771",
-        "descripcion": "PM22901",
-        "intensidad": "2400",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4373,11 +4373,11 @@
       "type": "Feature",
       "properties": {
         "id": "3494",
-        "descripcion": "PM22971",
-        "intensidad": "1860",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4399,11 +4399,11 @@
       "type": "Feature",
       "properties": {
         "id": "6772",
-        "descripcion": "PM23011",
-        "intensidad": "2100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4425,11 +4425,11 @@
       "type": "Feature",
       "properties": {
         "id": "6934",
-        "descripcion": "PM23221",
-        "intensidad": "1800",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4451,11 +4451,11 @@
       "type": "Feature",
       "properties": {
         "id": "6935",
-        "descripcion": "PM23222",
-        "intensidad": "720",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4477,11 +4477,11 @@
       "type": "Feature",
       "properties": {
         "id": "3837",
-        "descripcion": "PM30461",
-        "intensidad": "2100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4503,11 +4503,11 @@
       "type": "Feature",
       "properties": {
         "id": "3539",
-        "descripcion": "PM30462",
-        "intensidad": "1380",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4529,11 +4529,11 @@
       "type": "Feature",
       "properties": {
         "id": "3536",
-        "descripcion": "PM30471",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4555,11 +4555,11 @@
       "type": "Feature",
       "properties": {
         "id": "6819",
-        "descripcion": "PM30472",
-        "intensidad": "300",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4581,11 +4581,11 @@
       "type": "Feature",
       "properties": {
         "id": "3495",
-        "descripcion": "PM30752",
-        "intensidad": "2160",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4607,11 +4607,11 @@
       "type": "Feature",
       "properties": {
         "id": "3561",
-        "descripcion": "PM30753",
-        "intensidad": "1140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4633,11 +4633,11 @@
       "type": "Feature",
       "properties": {
         "id": "3600",
-        "descripcion": "PM30901",
-        "intensidad": "1500",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4659,11 +4659,11 @@
       "type": "Feature",
       "properties": {
         "id": "3838",
-        "descripcion": "PM30902",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4685,11 +4685,11 @@
       "type": "Feature",
       "properties": {
         "id": "3839",
-        "descripcion": "PM31263",
-        "intensidad": "1740",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4711,11 +4711,11 @@
       "type": "Feature",
       "properties": {
         "id": "6777",
-        "descripcion": "PM31264",
-        "intensidad": "960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4737,11 +4737,11 @@
       "type": "Feature",
       "properties": {
         "id": "7127",
-        "descripcion": "PM31301",
-        "intensidad": "720",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4763,11 +4763,11 @@
       "type": "Feature",
       "properties": {
         "id": "6778",
-        "descripcion": "PM31451",
-        "intensidad": "1980",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4789,11 +4789,11 @@
       "type": "Feature",
       "properties": {
         "id": "6779",
-        "descripcion": "PM31452",
-        "intensidad": "4200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4815,11 +4815,11 @@
       "type": "Feature",
       "properties": {
         "id": "6822",
-        "descripcion": "PM31453",
-        "intensidad": "3120",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4919,11 +4919,11 @@
       "type": "Feature",
       "properties": {
         "id": "6942",
-        "descripcion": "PM31881",
-        "intensidad": "1260",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -4945,7 +4945,7 @@
       "type": "Feature",
       "properties": {
         "id": "6941",
-        "descripcion": "PM31882",
+        "descripcion": "",
         "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
@@ -4971,8 +4971,8 @@
       "type": "Feature",
       "properties": {
         "id": "6949",
-        "descripcion": "PM31891",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -4997,8 +4997,8 @@
       "type": "Feature",
       "properties": {
         "id": "6950",
-        "descripcion": "PM31892",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -5023,11 +5023,11 @@
       "type": "Feature",
       "properties": {
         "id": "6781",
-        "descripcion": "PM32051",
-        "intensidad": "2340",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5049,11 +5049,11 @@
       "type": "Feature",
       "properties": {
         "id": "6782",
-        "descripcion": "PM32351",
-        "intensidad": "3060",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5075,8 +5075,8 @@
       "type": "Feature",
       "properties": {
         "id": "3496",
-        "descripcion": "PM32352",
-        "intensidad": "60",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -5101,11 +5101,11 @@
       "type": "Feature",
       "properties": {
         "id": "6783",
-        "descripcion": "PM33031",
-        "intensidad": "2100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5127,11 +5127,11 @@
       "type": "Feature",
       "properties": {
         "id": "6784",
-        "descripcion": "PM33032",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5153,8 +5153,8 @@
       "type": "Feature",
       "properties": {
         "id": "6787",
-        "descripcion": "PM33201",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -5179,8 +5179,8 @@
       "type": "Feature",
       "properties": {
         "id": "6788",
-        "descripcion": "PM33202",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -5205,11 +5205,11 @@
       "type": "Feature",
       "properties": {
         "id": "6932",
-        "descripcion": "PM33221",
-        "intensidad": "2760",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5231,11 +5231,11 @@
       "type": "Feature",
       "properties": {
         "id": "7128",
-        "descripcion": "PM33222",
-        "intensidad": "480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5257,11 +5257,11 @@
       "type": "Feature",
       "properties": {
         "id": "3538",
-        "descripcion": "PM40442",
-        "intensidad": "1500",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5283,11 +5283,11 @@
       "type": "Feature",
       "properties": {
         "id": "6789",
-        "descripcion": "PM40461",
-        "intensidad": "4440",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5309,11 +5309,11 @@
       "type": "Feature",
       "properties": {
         "id": "6790",
-        "descripcion": "PM40751",
-        "intensidad": "1800",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5335,11 +5335,11 @@
       "type": "Feature",
       "properties": {
         "id": "7131",
-        "descripcion": "PM40752",
-        "intensidad": "480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5361,11 +5361,11 @@
       "type": "Feature",
       "properties": {
         "id": "3827",
-        "descripcion": "PM40753",
-        "intensidad": "300",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5387,11 +5387,11 @@
       "type": "Feature",
       "properties": {
         "id": "3828",
-        "descripcion": "PM40754",
-        "intensidad": "1920",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5413,11 +5413,11 @@
       "type": "Feature",
       "properties": {
         "id": "3826",
-        "descripcion": "PM40755",
-        "intensidad": "240",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5439,11 +5439,11 @@
       "type": "Feature",
       "properties": {
         "id": "6791",
-        "descripcion": "PM40901",
-        "intensidad": "1920",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5465,11 +5465,11 @@
       "type": "Feature",
       "properties": {
         "id": "6792",
-        "descripcion": "PM40902",
-        "intensidad": "120",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5491,11 +5491,11 @@
       "type": "Feature",
       "properties": {
         "id": "3761",
-        "descripcion": "PM41261",
-        "intensidad": "720",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5517,11 +5517,11 @@
       "type": "Feature",
       "properties": {
         "id": "3762",
-        "descripcion": "PM41262",
-        "intensidad": "120",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5543,11 +5543,11 @@
       "type": "Feature",
       "properties": {
         "id": "3763",
-        "descripcion": "PM41301",
-        "intensidad": "1140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5569,11 +5569,11 @@
       "type": "Feature",
       "properties": {
         "id": "3703",
-        "descripcion": "PM41302",
-        "intensidad": "600",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5595,11 +5595,11 @@
       "type": "Feature",
       "properties": {
         "id": "3704",
-        "descripcion": "PM41351",
-        "intensidad": "1980",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5621,11 +5621,11 @@
       "type": "Feature",
       "properties": {
         "id": "3705",
-        "descripcion": "PM41451",
-        "intensidad": "2700",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5647,11 +5647,11 @@
       "type": "Feature",
       "properties": {
         "id": "6793",
-        "descripcion": "PM41452",
-        "intensidad": "2460",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5673,11 +5673,11 @@
       "type": "Feature",
       "properties": {
         "id": "6823",
-        "descripcion": "PM41453",
-        "intensidad": "2100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5829,11 +5829,11 @@
       "type": "Feature",
       "properties": {
         "id": "6943",
-        "descripcion": "PM41881",
-        "intensidad": "1320",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5855,11 +5855,11 @@
       "type": "Feature",
       "properties": {
         "id": "6944",
-        "descripcion": "PM41882",
-        "intensidad": "240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5881,11 +5881,11 @@
       "type": "Feature",
       "properties": {
         "id": "6952",
-        "descripcion": "PM41891",
-        "intensidad": "1980",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5907,11 +5907,11 @@
       "type": "Feature",
       "properties": {
         "id": "6951",
-        "descripcion": "PM41892",
-        "intensidad": "540",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5933,11 +5933,11 @@
       "type": "Feature",
       "properties": {
         "id": "6796",
-        "descripcion": "PM42051",
-        "intensidad": "720",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5959,11 +5959,11 @@
       "type": "Feature",
       "properties": {
         "id": "6797",
-        "descripcion": "PM42052",
-        "intensidad": "780",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -5985,11 +5985,11 @@
       "type": "Feature",
       "properties": {
         "id": "6798",
-        "descripcion": "PM42351",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6011,11 +6011,11 @@
       "type": "Feature",
       "properties": {
         "id": "6799",
-        "descripcion": "PM42352",
-        "intensidad": "780",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6037,11 +6037,11 @@
       "type": "Feature",
       "properties": {
         "id": "6800",
-        "descripcion": "PM42353",
-        "intensidad": "420",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6063,11 +6063,11 @@
       "type": "Feature",
       "properties": {
         "id": "6801",
-        "descripcion": "PM43001",
-        "intensidad": "2400",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6089,11 +6089,11 @@
       "type": "Feature",
       "properties": {
         "id": "6802",
-        "descripcion": "PM43011",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6115,11 +6115,11 @@
       "type": "Feature",
       "properties": {
         "id": "6804",
-        "descripcion": "PM43021",
-        "intensidad": "1920",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6141,11 +6141,11 @@
       "type": "Feature",
       "properties": {
         "id": "3706",
-        "descripcion": "PM43022",
-        "intensidad": "900",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6167,11 +6167,11 @@
       "type": "Feature",
       "properties": {
         "id": "6805",
-        "descripcion": "PM43031",
-        "intensidad": "2100",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6193,11 +6193,11 @@
       "type": "Feature",
       "properties": {
         "id": "6806",
-        "descripcion": "PM43032",
-        "intensidad": "480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6219,8 +6219,8 @@
       "type": "Feature",
       "properties": {
         "id": "6809",
-        "descripcion": "PM43201",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -6245,8 +6245,8 @@
       "type": "Feature",
       "properties": {
         "id": "6810",
-        "descripcion": "PM43202",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -6271,11 +6271,11 @@
       "type": "Feature",
       "properties": {
         "id": "6933",
-        "descripcion": "PM43221",
-        "intensidad": "2460",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6297,11 +6297,11 @@
       "type": "Feature",
       "properties": {
         "id": "7129",
-        "descripcion": "PM43222",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6323,11 +6323,11 @@
       "type": "Feature",
       "properties": {
         "id": "7015",
-        "descripcion": "PM43223",
-        "intensidad": "1440",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6349,11 +6349,11 @@
       "type": "Feature",
       "properties": {
         "id": "10266",
-        "descripcion": "PM10578",
-        "intensidad": "1140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6375,8 +6375,8 @@
       "type": "Feature",
       "properties": {
         "id": "10194",
-        "descripcion": "PM20667",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -6401,8 +6401,8 @@
       "type": "Feature",
       "properties": {
         "id": "10297",
-        "descripcion": "PM10293",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -6427,11 +6427,11 @@
       "type": "Feature",
       "properties": {
         "id": "10172",
-        "descripcion": "PM10533",
-        "intensidad": "1200",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6453,7 +6453,7 @@
       "type": "Feature",
       "properties": {
         "id": "10173",
-        "descripcion": "PM10593",
+        "descripcion": "",
         "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
@@ -6479,8 +6479,8 @@
       "type": "Feature",
       "properties": {
         "id": "10174",
-        "descripcion": "PM10714",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -6505,11 +6505,11 @@
       "type": "Feature",
       "properties": {
         "id": "10171",
-        "descripcion": "PM20394",
-        "intensidad": "840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6531,11 +6531,11 @@
       "type": "Feature",
       "properties": {
         "id": "6748",
-        "descripcion": "PM20864",
-        "intensidad": "900",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6557,11 +6557,11 @@
       "type": "Feature",
       "properties": {
         "id": "10179",
-        "descripcion": "PM20942",
-        "intensidad": "1860",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6583,11 +6583,11 @@
       "type": "Feature",
       "properties": {
         "id": "10178",
-        "descripcion": "PM20948",
-        "intensidad": "1200",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6609,11 +6609,11 @@
       "type": "Feature",
       "properties": {
         "id": "6697",
-        "descripcion": "PM22502",
-        "intensidad": "3180",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6635,11 +6635,11 @@
       "type": "Feature",
       "properties": {
         "id": "10176",
-        "descripcion": "PM40462",
-        "intensidad": "240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6661,11 +6661,11 @@
       "type": "Feature",
       "properties": {
         "id": "6661",
-        "descripcion": "PM40463",
-        "intensidad": "180",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6687,11 +6687,11 @@
       "type": "Feature",
       "properties": {
         "id": "10269",
-        "descripcion": "PM13012",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6713,11 +6713,11 @@
       "type": "Feature",
       "properties": {
         "id": "10198",
-        "descripcion": "PM40011",
-        "intensidad": "1680",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6739,11 +6739,11 @@
       "type": "Feature",
       "properties": {
         "id": "10200",
-        "descripcion": "PM40012",
-        "intensidad": "600",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6765,11 +6765,11 @@
       "type": "Feature",
       "properties": {
         "id": "10201",
-        "descripcion": "PM40014",
-        "intensidad": "480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6791,11 +6791,11 @@
       "type": "Feature",
       "properties": {
         "id": "10199",
-        "descripcion": "PM40018",
-        "intensidad": "1320",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6817,11 +6817,11 @@
       "type": "Feature",
       "properties": {
         "id": "10204",
-        "descripcion": "PM40951",
-        "intensidad": "1680",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6843,11 +6843,11 @@
       "type": "Feature",
       "properties": {
         "id": "10203",
-        "descripcion": "PM40952",
-        "intensidad": "780",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6869,11 +6869,11 @@
       "type": "Feature",
       "properties": {
         "id": "10202",
-        "descripcion": "PM40956",
-        "intensidad": "240",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6895,11 +6895,11 @@
       "type": "Feature",
       "properties": {
         "id": "10205",
-        "descripcion": "PM41201",
-        "intensidad": "1860",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6921,11 +6921,11 @@
       "type": "Feature",
       "properties": {
         "id": "10207",
-        "descripcion": "PM41202",
-        "intensidad": "2220",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6947,11 +6947,11 @@
       "type": "Feature",
       "properties": {
         "id": "10208",
-        "descripcion": "PM41861",
-        "intensidad": "1440",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6973,11 +6973,11 @@
       "type": "Feature",
       "properties": {
         "id": "10210",
-        "descripcion": "PM43041",
-        "intensidad": "2520",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -6999,11 +6999,11 @@
       "type": "Feature",
       "properties": {
         "id": "10211",
-        "descripcion": "PM41454",
-        "intensidad": "840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7025,11 +7025,11 @@
       "type": "Feature",
       "properties": {
         "id": "6741",
-        "descripcion": "PM20777",
-        "intensidad": "840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7051,11 +7051,11 @@
       "type": "Feature",
       "properties": {
         "id": "10267",
-        "descripcion": "PM20778",
-        "intensidad": "1020",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7077,11 +7077,11 @@
       "type": "Feature",
       "properties": {
         "id": "6762",
-        "descripcion": "PM41196",
-        "intensidad": "420",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7103,11 +7103,11 @@
       "type": "Feature",
       "properties": {
         "id": "10268",
-        "descripcion": "PM41192",
-        "intensidad": "300",
-        "nivelServicio": "2",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FF0000",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7129,11 +7129,11 @@
       "type": "Feature",
       "properties": {
         "id": "3817",
-        "descripcion": "PM10486",
-        "intensidad": "1440",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7155,11 +7155,11 @@
       "type": "Feature",
       "properties": {
         "id": "10660",
-        "descripcion": "PM12067",
-        "intensidad": "360",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7181,11 +7181,11 @@
       "type": "Feature",
       "properties": {
         "id": "10662",
-        "descripcion": "PM10764",
-        "intensidad": "1260",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7207,11 +7207,11 @@
       "type": "Feature",
       "properties": {
         "id": "10661",
-        "descripcion": "PM20596",
-        "intensidad": "1320",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7233,11 +7233,11 @@
       "type": "Feature",
       "properties": {
         "id": "10659",
-        "descripcion": "PM12397",
-        "intensidad": "240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7259,11 +7259,11 @@
       "type": "Feature",
       "properties": {
         "id": "6803",
-        "descripcion": "PM43012",
-        "intensidad": "1080",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7285,11 +7285,11 @@
       "type": "Feature",
       "properties": {
         "id": "11362",
-        "descripcion": "PM43019",
-        "intensidad": "960",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7311,11 +7311,11 @@
       "type": "Feature",
       "properties": {
         "id": "11363",
-        "descripcion": "PM43014",
-        "intensidad": "420",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7337,11 +7337,11 @@
       "type": "Feature",
       "properties": {
         "id": "6773",
-        "descripcion": "PM23071",
-        "intensidad": "2040",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7363,11 +7363,11 @@
       "type": "Feature",
       "properties": {
         "id": "6774",
-        "descripcion": "PM23073",
-        "intensidad": "420",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7389,11 +7389,11 @@
       "type": "Feature",
       "properties": {
         "id": "11365",
-        "descripcion": "PM23077",
-        "intensidad": "4500",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7415,11 +7415,11 @@
       "type": "Feature",
       "properties": {
         "id": "11385",
-        "descripcion": "PM23071x",
-        "intensidad": "2460",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7441,11 +7441,11 @@
       "type": "Feature",
       "properties": {
         "id": "11367",
-        "descripcion": "PM13111",
-        "intensidad": "3480",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7467,11 +7467,11 @@
       "type": "Feature",
       "properties": {
         "id": "11368",
-        "descripcion": "PM13118",
-        "intensidad": "840",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7493,11 +7493,11 @@
       "type": "Feature",
       "properties": {
         "id": "6775",
-        "descripcion": "PM23111",
-        "intensidad": "5820",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7519,11 +7519,11 @@
       "type": "Feature",
       "properties": {
         "id": "6709",
-        "descripcion": "PM23119",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7545,11 +7545,11 @@
       "type": "Feature",
       "properties": {
         "id": "11375",
-        "descripcion": "PM13164",
-        "intensidad": "360",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7571,11 +7571,11 @@
       "type": "Feature",
       "properties": {
         "id": "11374",
-        "descripcion": "PM13163",
-        "intensidad": "3180",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7597,11 +7597,11 @@
       "type": "Feature",
       "properties": {
         "id": "11373",
-        "descripcion": "PM13161",
-        "intensidad": "2880",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7623,11 +7623,11 @@
       "type": "Feature",
       "properties": {
         "id": "11372",
-        "descripcion": "PM23161",
-        "intensidad": "1920",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7649,11 +7649,11 @@
       "type": "Feature",
       "properties": {
         "id": "11371",
-        "descripcion": "PM23163",
-        "intensidad": "2340",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7675,11 +7675,11 @@
       "type": "Feature",
       "properties": {
         "id": "11370",
-        "descripcion": "PM33153",
-        "intensidad": "1320",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7701,11 +7701,11 @@
       "type": "Feature",
       "properties": {
         "id": "6786",
-        "descripcion": "PM33152",
-        "intensidad": "1620",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7727,11 +7727,11 @@
       "type": "Feature",
       "properties": {
         "id": "11387",
-        "descripcion": "PM33151",
-        "intensidad": "1200",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7753,11 +7753,11 @@
       "type": "Feature",
       "properties": {
         "id": "6807",
-        "descripcion": "PM43151",
-        "intensidad": "1860",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7779,11 +7779,11 @@
       "type": "Feature",
       "properties": {
         "id": "11369",
-        "descripcion": "PM43153",
-        "intensidad": "780",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7805,11 +7805,11 @@
       "type": "Feature",
       "properties": {
         "id": "6808",
-        "descripcion": "PM43152",
-        "intensidad": "120",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7831,11 +7831,11 @@
       "type": "Feature",
       "properties": {
         "id": "11388",
-        "descripcion": "PM13181",
-        "intensidad": "3240",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7857,11 +7857,11 @@
       "type": "Feature",
       "properties": {
         "id": "6818",
-        "descripcion": "PM13188",
-        "intensidad": "3060",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7883,11 +7883,11 @@
       "type": "Feature",
       "properties": {
         "id": "11377",
-        "descripcion": "PM13187",
-        "intensidad": "660",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7909,11 +7909,11 @@
       "type": "Feature",
       "properties": {
         "id": "11379",
-        "descripcion": "PM23188",
-        "intensidad": "1080",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7935,8 +7935,8 @@
       "type": "Feature",
       "properties": {
         "id": "11380",
-        "descripcion": "PM23183",
-        "intensidad": "-1",
+        "descripcion": "",
+        "intensidad": "0",
         "nivelServicio": "-1",
         "_umap_options": {
           "color": "#888888",
@@ -7961,11 +7961,11 @@
       "type": "Feature",
       "properties": {
         "id": "11381",
-        "descripcion": "PM23185",
-        "intensidad": "780",
-        "nivelServicio": "1",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#FFFF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -7987,11 +7987,11 @@
       "type": "Feature",
       "properties": {
         "id": "11382",
-        "descripcion": "PM23189",
-        "intensidad": "1500",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -8013,11 +8013,11 @@
       "type": "Feature",
       "properties": {
         "id": "11389",
-        "descripcion": "PM23203",
-        "intensidad": "2280",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
@@ -8039,11 +8039,11 @@
       "type": "Feature",
       "properties": {
         "id": "11384",
-        "descripcion": "PM13185v",
-        "intensidad": "1140",
-        "nivelServicio": "0",
+        "descripcion": "",
+        "intensidad": "0",
+        "nivelServicio": "-1",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#888888",
           "weight": 5
         }
       },
